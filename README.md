@@ -4,7 +4,7 @@ Connect to WiFi for free all over the world!
 https://play.google.com/store/apps/details?id=io.wifimap.wifimap
 
 Code to download all the WiFi Passwords from WiFi Map.
-Needed to know how people around the world created their passwords and now I know. 
+Needed to know how people around the world creat their passwords and now I know. 
 
 Output 
 
